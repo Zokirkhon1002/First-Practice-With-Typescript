@@ -2,9 +2,7 @@
 
 # Your can see in here: <a href="https://first-practice-typescript.netlify.app" target="_blank">Live Demo</a>
 
-<br/>
-<hr />
-<br />
+
 <h1>Some Pictures below:</h1>
 <br/>
 <hr />
